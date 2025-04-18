@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 import asyncio
 
-API_TOKEN = '7722288298:AAGHA-_cFfY9_sifkhy0NNUP9vjCtTsy42k'  # токен
+API_TOKEN = '7722288298:AAGHI7mL_J5ktUXpgz66JY6E6BcXmIrcvmc'  # токен
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
